@@ -1,4 +1,4 @@
-[The in process image](trdne.jpg)
+![The in process image](trdne.jpg)
 
 This is series of images taken from the website This People Does Not Exist. Some more convincing than others, but all have in common with the fact that it still shows the flaw of the GAN technology. I see a subtle quality of delicacy in these flaws that the AI still shows. In a way, this has become a creative style for the AI when rendering their images. My project is more of a celebration of this, in a sense a humanness that the AI shows. I believe these interesting character that this technology holds has been overlooked because of the focus in the abuse of Deep Fakes in pornography and such.
 

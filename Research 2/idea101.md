@@ -1,5 +1,6 @@
 [The Image for Research](Research.jpg) [Research](Research.md)
 [In_Process](In_Progress.md) [The in process image](trdne.jpg) [In process image2](tpdne1.jpg) [In process image3](tpdne2.jpg) [In process image4](tpdne3.jpg)
+
 ### Deep Fakes
 
 In April of 2018, Buzzfeed released a video of President Obama warning the viewer, “We’re entering an era in which our enemies can make it look like anyone is saying anything at any point in time, even if they would never say those things.” Later in the video, it was revealed that this video was only a digitally manipulated footage of comedian Jordan Parker.  This video served as a warning to the internet users the power of the technology known as *Deep Fakes*. It is a machine learning technology that is able to map a persons face onto another person in a video. It is based on a machine learning technology called Generative Adversary Network, or GAN first propesed by Ian Goodfellow. Where there is a discriminator and the generator. The generator generates images that are inferred from the data fed. The discriminator tries to decide wether the generated image is real or not. The goal is to fool the discriminator as much as possible by making it think the generated image is real.
