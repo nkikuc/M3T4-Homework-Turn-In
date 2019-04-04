@@ -1,5 +1,16 @@
-[The Image for Research](Research.jpg) [Research](Research.md)
-[In_Process](In_Progress.md) [The in process image](trdne.jpg) [In process image2](tpdne1.jpg) [In process image3](tpdne2.jpg) [In process image4](tpdne3.jpg)
+-[The Image for Research](Research.jpg)
+
+-[Research](Research.md)
+
+-[In_Process](In_Progress.md)
+
+-[The in process image](trdne.jpg)
+
+-[In process image2](tpdne1.jpg)
+
+-[In process image3](tpdne2.jpg)
+
+-[In process image4](tpdne3.jpg)
 
 ### Deep Fakes
 
