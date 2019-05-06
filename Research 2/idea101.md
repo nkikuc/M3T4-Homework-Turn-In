@@ -13,6 +13,9 @@ Though this technology is commonly referred with pornography or politics the sam
 
 More recently Nvidia has worked with UC Berkeley and MIT to create a newly improved GAN program that can render photorealistic landscape based on simple blocks of colors. It is expected to be presented at a conference hosted in June.
 
-![AI text2image generated images](text2image.pdf)
+![AI text2image generated images](apparelstore.png)
+![AI text2image generated images](Aquarium.png)
+![AI text2image generated images](Beach.png)
+![AI text2image generated images](Cafecounter.png)
 
-> A GAN image generated from text, overlapped with an illustration. The idea is to define the abstract space created by GAN to learn to appreciate the aesthetic of machine generated images. 
+> A GAN image generated from text, overlapped with an illustration. The idea is to define the abstract space created by GAN to learn to appreciate the aesthetic of machine generated images.
